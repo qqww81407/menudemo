@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting"
+        android:title="設定"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/infome"
+        android:title="關於我"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/logout"
+        android:title="登出"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/fbicon"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="FB"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1"/>
+
+
+
+    <!--
+    showAsAction
+    never 不會在上方的選項出現
+    ifRoom 如果bar 有空間的話,才顯示
+    always 一定會出來的
+    withText 除了icon外,也可以顯示文字標題
+    -->
+
+
+
+
+
+</menu>

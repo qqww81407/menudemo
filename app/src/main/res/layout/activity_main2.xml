@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="26dp">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/endbtn"
+        android:text="關閉此頁"
+        android:textSize="26sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="22sp"
+                android:textColor="#000000"
+                android:text="中華隊第1點由陳思羽、鄭先知搭檔雙打上陣，首局只用6分鐘，就以11比6勝美國隊，暫時取得領先，接著連輸兩局（6、6 比11）落後對手，第3局12比10扳回一城 ，決勝局以11比8的3比2獲得此局勝利，亦暫時領先美國。
+
+第二點單打由近況不錯的鄭怡靜下場單打，三局以直落3（11比5、1、4）輕取對手；中華隊以2比0暫居領先。
+
+第三點由陳思羽上陣單打，首局以11比13負，2局以11比4追回，再以16比14、11比4的3比1勝對手。
+
+美國隊今天派出選手，亦為前華裔選手，實力不弱。
+
+今天獲勝，可晉級明天八強賽，將出戰地主日本隊。中華隊第1點由陳思羽、鄭先知搭檔雙打上陣，首局只用6分鐘，就以11比6勝美國隊，暫時取得領先，接著連輸兩局（6、6 比11）落後對手，第3局12比10扳回一城 ，決勝局以11比8的3比2獲得此局勝利，亦暫時領先美國。
+
+第二點單打由近況不錯的鄭怡靜下場單打，三局以直落3（11比5、1、4）輕取對手；中華隊以2比0暫居領先。
+
+第三點由陳思羽上陣單打，首局以11比13負，2局以11比4追回，再以16比14、11比4的3比1勝對手。
+
+美國隊今天派出選手，亦為前華裔選手，實力不弱。
+
+今天獲勝，可晉級明天八強賽，將出戰地主日本隊。中華隊第1點由陳思羽、鄭先知搭檔雙打上陣，首局只用6分鐘，就以11比6勝美國隊，暫時取得領先，接著連輸兩局（6、6 比11）落後對手，第3局12比10扳回一城 ，決勝局以11比8的3比2獲得此局勝利，亦暫時領先美國。
+
+第二點單打由近況不錯的鄭怡靜下場單打，三局以直落3（11比5、1、4）輕取對手；中華隊以2比0暫居領先。
+
+第三點由陳思羽上陣單打，首局以11比13負，2局以11比4追回，再以16比14、11比4的3比1勝對手。
+
+美國隊今天派出選手，亦為前華裔選手，實力不弱。
+
+今天獲勝，可晉級明天八強賽，將出戰地主日本隊。"/>
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>
